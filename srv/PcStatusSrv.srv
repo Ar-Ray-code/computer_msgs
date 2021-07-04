@@ -1,4 +1,4 @@
 int16 system_ctrl
-int16[] arg1
+int16[] args_int16
 ---
 computer_msgs/PcStatus callback_status
